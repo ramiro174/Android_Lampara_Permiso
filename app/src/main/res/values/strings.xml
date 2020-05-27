@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Repaso</string>
+	<string name="permiso">permiso</string>
+	<string name="stringValue1">Verifica los Siguintes Permisos Antes de comenzar</string>
+</resources>
